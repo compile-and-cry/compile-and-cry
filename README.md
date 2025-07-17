@@ -4,8 +4,6 @@
 
 Hi, I'm **Syed**, a Backend Engineer with 3+ years of experience designing, building, and scaling APIs and microservices that power financial tech and AI systems. I specialize in building **cloud-native applications** with a strong focus on **clean architecture**, **performance**, and **resilience**.
 
-Currently leading backend development for the **AI Accountant tool at Karbon**, where I architected core APIs, built automated data ingestion systems, and integrated with platforms like **Tally** and **FinBox** to streamline accounting workflows.
-
 ---
 
 ### 🧠 What I Do
